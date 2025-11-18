@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B76EE1-A202-C078-07E5-989DC670F074}|Assembly-CSharp.csproj|f:\\\u0440\u0430\u0431\u043E\u0442\u0430\\c#\\furylion\\unity-d.kalanda\\task2\\assets\\scripts\\ui\\basepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B76EE1-A202-C078-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\basepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\pages\\addedithumanpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pages\\addedithumanpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\pages\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pages\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\pages\\printwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pages\\printwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\popups\\humantypepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popups\\humantypepopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\popups\\infopopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popups\\infopopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\popups\\humannumberpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popups\\humannumberpopup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\popupmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\viewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\viewmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\basewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\basewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\ui\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\pagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\assets\\scripts\\entities\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E16EB714-02A2-78C0-07E5-989DC670F074}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entities\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Pages\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Pages\\MainWindow.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Pages\\MainWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Pages\\MainWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T20:09:59.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrintWindow.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Pages\\PrintWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Pages\\PrintWindow.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Pages\\PrintWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Pages\\PrintWindow.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T20:09:58.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoPopup.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Popups\\InfoPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Popups\\InfoPopup.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Popups\\InfoPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Popups\\InfoPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T20:02:51.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HumanTypePopup.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Popups\\HumanTypePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Popups\\HumanTypePopup.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Popups\\HumanTypePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Popups\\HumanTypePopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T20:01:47.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PopupManager.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\PopupManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PopupManager.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\PopupManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PopupManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:41:39.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePopup.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\BasePopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BasePopup.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\BasePopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BasePopup.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:36:10.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditHumanPage.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Pages\\AddEditHumanPage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Pages\\AddEditHumanPage.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Pages\\AddEditHumanPage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Pages\\AddEditHumanPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:45:52.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ViewManager.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\ViewManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ViewManager.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\ViewManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ViewManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:43:49.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HumanNumberPopup.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Popups\\HumanNumberPopup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Popups\\HumanNumberPopup.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\Popups\\HumanNumberPopup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\Popups\\HumanNumberPopup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:50:35.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseWindow.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\BaseWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\BaseWindow.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\BaseWindow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\BaseWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:37:21.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PageManager.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\PageManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\PageManager.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\UI\\PageManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\PageManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T19:39:33.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Human.cs",
+              "DocumentMoniker": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\Entities\\Human.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entities\\Human.cs",
+              "ToolTip": "F:\\\u0420\u0430\u0431\u043E\u0442\u0430\\C#\\FuryLion\\unity-d.kalanda\\Task2\\Assets\\Scripts\\Entities\\Human.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entities\\Human.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:44:18.337Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
